@@ -9,8 +9,8 @@ lista.append(17)
 lista.append(6)
 
 print(lista)
-def sortowanie(a,b):
-    return abs(a)>=abs(b)
+
+
 # stos = Stos.Stos(3)
 # print(stos)
 # stos.push(5)
